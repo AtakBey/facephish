@@ -1,7 +1,7 @@
 # Facephish
 Facebook phishing page available in 11 languages.
 
-![Screenshot](https://user-images.githubusercontent.com/48186982/63222761-2d4bf880-c1ac-11e9-8a1d-39954eb32891.png)
+![Screenshot](https://user-images.githubusercontent.com/48186982/63222825-e4e10a80-c1ac-11e9-9519-b9b0b30936d9.png)
 
 # Redirecting
 
